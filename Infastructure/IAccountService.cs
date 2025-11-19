@@ -1,10 +1,12 @@
 ﻿namespace DefaultNamespace;
 
+using Domain;
+
 public interface IAccountService
 {
-    public async Task<int> AddAccount(Account account);
-    public async Task<int> UpdateAccount ( Account accout);
-    public async Task<int> DeleteAccount(int id);
-    public async Task<Account> GetAccountById(int id);
-    public async Task<List<Account>> GetAllAccounts();
+    public Task<int> AddAccount(Account account);
+    public Task<int> UpdateAccount(Account account);
+    public Task<int> DeleteAccount(int id);
+    public Task<Account> GetAccountById(int id);
+    public Task<List<Account>> GetAllAccounts();
 }

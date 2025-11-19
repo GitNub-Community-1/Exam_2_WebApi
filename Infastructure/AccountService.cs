@@ -4,7 +4,7 @@ using Domain;
 
 using Dapper;
 namespace DefaultNamespace;
-public class AccountService(DbContext context)
+public class AccountService(DbContext context) : IAccountService
 {
     public async Task<int> AddAccount(Account account)
     {
@@ -30,7 +30,7 @@ public class AccountService(DbContext context)
         return result;
     }
 
-    public async Task<Account> GetCustomerById(int id)
+    public async Task<Account> GetAccountById(int id)
     {
         using var conn = context.Connection();
         string query = "select * from accounts where id = @id";

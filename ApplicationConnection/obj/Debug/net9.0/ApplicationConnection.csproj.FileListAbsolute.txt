@@ -1,0 +1,13 @@
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\bin\Debug\net9.0\ApplicationConnection.deps.json
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\bin\Debug\net9.0\ApplicationConnection.dll
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\bin\Debug\net9.0\ApplicationConnection.pdb
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\obj\Debug\net9.0\ApplicationConnection.csproj.AssemblyReference.cache
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\obj\Debug\net9.0\ApplicationConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\obj\Debug\net9.0\ApplicationConnection.AssemblyInfoInputs.cache
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\obj\Debug\net9.0\ApplicationConnection.AssemblyInfo.cs
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\obj\Debug\net9.0\ApplicationConnection.csproj.CoreCompileInputs.cache
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\obj\Debug\net9.0\ApplicationConnection.sourcelink.json
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\obj\Debug\net9.0\ApplicationConnection.dll
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\obj\Debug\net9.0\refint\ApplicationConnection.dll
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\obj\Debug\net9.0\ApplicationConnection.pdb
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Second_Exam_WebAPI\ApplicationConnection\obj\Debug\net9.0\ref\ApplicationConnection.dll
