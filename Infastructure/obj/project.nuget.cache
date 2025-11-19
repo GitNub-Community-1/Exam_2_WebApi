@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZhaE6oCalg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Infastructure\\Infastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LLC LEADER\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\LLC LEADER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\LLC LEADER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\LLC LEADER\\.nuget\\packages\\npgsql\\9.0.4\\npgsql.9.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Infastructure\\Infastructure.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Infastructure\\Infastructure.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

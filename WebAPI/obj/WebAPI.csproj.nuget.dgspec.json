@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\WebAPI\\WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\ApplicationConnection\\ApplicationConnection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\ApplicationConnection\\ApplicationConnection.csproj",
+        "projectName": "ApplicationConnection",
+        "projectPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\ApplicationConnection\\ApplicationConnection.csproj",
+        "packagesPath": "C:\\Users\\LLC LEADER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\ApplicationConnection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LLC LEADER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\LLC LEADER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LLC LEADER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Infastructure\\Infastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Infastructure\\Infastructure.csproj",
+        "projectName": "Infastructure",
+        "projectPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Infastructure\\Infastructure.csproj",
+        "packagesPath": "C:\\Users\\LLC LEADER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Infastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LLC LEADER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\ApplicationConnection\\ApplicationConnection.csproj": {
+                "projectPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\ApplicationConnection\\ApplicationConnection.csproj"
+              },
+              "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\WebAPI\\WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\LLC LEADER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LLC LEADER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\ApplicationConnection\\ApplicationConnection.csproj": {
+                "projectPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\ApplicationConnection\\ApplicationConnection.csproj"
+              },
+              "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Infastructure\\Infastructure.csproj": {
+                "projectPath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\Infastructure\\Infastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

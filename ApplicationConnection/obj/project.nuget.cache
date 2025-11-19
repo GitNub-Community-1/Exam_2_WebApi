@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/kr8YGAagr8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LLC LEADER\\OneDrive\\Рабочий стол\\WebApiDotnet\\Second_Exam_WebAPI\\ApplicationConnection\\ApplicationConnection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LLC LEADER\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\LLC LEADER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\LLC LEADER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\LLC LEADER\\.nuget\\packages\\npgsql\\9.0.4\\npgsql.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
