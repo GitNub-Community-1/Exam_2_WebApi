@@ -28,8 +28,14 @@ public class CustomerController : ControllerBase
 
 	[HttpPost]
 	public async Task<string> Create( UploadPictureDto customer)
-	{
-        
+	{ 
+        string uploadspath = Path.Combine(Directory.GetCurrentDirectory(), "Uploads");
+        var filePath = Path.Combine(uploadspath , customer.ProfilePicture.FileName);
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                await customer.ProfilePicture.CopyToAsync(stream);
+            }   
+
         var userfile = new Customer
         {
             Id = customer.Id,
@@ -37,9 +43,10 @@ public class CustomerController : ControllerBase
             Email = customer.Email,
             PhoneNumber = customer.PhoneNumber,
             Address = customer.Address,
-            Profile_picture_url = customer.Profile_picture_url
+            Profile_picture_url = filePath
         };
-		var created = await _service.AddCustomer(customer);
+        
+		var created = await _service.AddCustomer(userfile);
 		if (created > 0)
 			return "Customer Added Succefully!";
         return "Customer Added not succefully!";
